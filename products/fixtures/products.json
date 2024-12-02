@@ -2406,5 +2406,19 @@
          "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0429201617074742M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
          "image":"DP0429201617074742M.jpg"
       }
+   },
+   {
+      "pk":171,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5007280259",
+         "name":"Fifth Head",
+         "description":" back zipper with hook-and-eye closure lined bodice printed shorts includes belt 32\" length; 3\" inseam body: polyester lace: cotton/nylon washable; remove belt before washing imported",
+         "price":62.99,
+         "category":8,
+         "rating":4.0,
+         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0421201617033561M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+         "image":"fifth_head_of_cerberus.jpg"
+      }
    }
 ]
